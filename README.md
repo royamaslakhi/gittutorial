@@ -27,6 +27,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Hojat Ansari 😎🔥](https://github.com/Hojat444)
 - [MohammadReza Elahi✌✔](https://github.com/mohammadrezaelahi)
 - [MrMiM](https://github.com/MrMiM-tfe)
+- [RoyaMaslakhi](https://github.com/RoyaMaslakhi)
 - [Mary 🔥](https://github.com/maryhbb)
 - [Shervin Badanara](https://github.com/shervinbdndev)
 - [Mohammad-a-tab](https://github.com/Mohammad-a-tab)
